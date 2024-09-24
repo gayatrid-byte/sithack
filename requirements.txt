@@ -1,5 +1,5 @@
 django
-json
+
 streamlit
 google-generativeai
 python-dotenv
