@@ -1,0 +1,6 @@
+django
+json
+streamlit
+google-generativeai
+python-dotenv
+gunicorn
